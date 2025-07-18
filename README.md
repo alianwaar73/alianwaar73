@@ -1,3 +1,5 @@
+[![projectAvatar](https://img.shields.io/badge/projectAvatar-Repository-blue?logo=github "Click to learn about my GitHub avatar!")](
+https://github.com/alianwaar73/projectAvatar)
 - 👋 Hi, I’m @alianwaar73
 - 👀 I’m interested in Gen AI-powered applications, given the current hype, DRM management and cross-platform market place for digital content specially video games
     - 🎮 I have some experience with blockchain, NFTs, and digital assets so planning on doing something, given this background, for legally trading digitally purchased
