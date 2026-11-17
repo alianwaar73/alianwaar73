@@ -1,6 +1,7 @@
 [![projectAvatar](https://img.shields.io/badge/projectAvatar-Repository-blue?logo=github "Click to learn about my GitHub avatar!")](
 https://github.com/alianwaar73/projectAvatar)
 - 👋 Hi, I’m @alianwaar73
+- I hold a [Master's degree](https://core.digitary.net/sharelink/863ae033-84b2-4da6-8106-afb588644cc7/13b878f2-89d8-4dd7-8fb0-c2bb7b4c66a1) in Computer Science.
 - I’m interested in Gen AI-powered applications, DRM management, and cross-platform market place for digital content specially video games.
     - I have some experience with blockchain, NFTs, and digital assets. Given this background, I am exploring a cross-platform marketplace for legally trading digitally purchased games (and other digital assets).
     - 🕹️ Also dabbling into the fundamentals of a game engine design
